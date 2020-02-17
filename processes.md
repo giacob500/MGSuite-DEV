@@ -13,8 +13,8 @@ Si parte ottenendo la lista di tutti gli studenti dal registro elettronico [Spag
     nome.cognome@gmail.com
 
 ***Fornire la mail a ogni studente***
-La email viene fornita a ogni studente mediante una circolare che spiega come aggiungere il proprio indirizzo email alla casella di posta riportando le seguenti informazioni. 
+La email viene fornita a ogni studente mediante una circolare che spiega come aggiungere il proprio indirizzo email alla casella di posta riportando le seguenti informazioni. L'indirizzo di posta elettronica segue il criterio riportato
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMDg5NzIxLDIwNzg1Mzg3MDAsLTgxNz
-gzNTYxNSw1MDQxOTQ5OTJdfQ==
+eyJoaXN0b3J5IjpbMTc4MjY4ODA2MywyMDc4NTM4NzAwLC04MT
+c4MzU2MTUsNTA0MTk0OTkyXX0=
 -->
