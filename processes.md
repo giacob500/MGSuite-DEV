@@ -8,8 +8,8 @@ Gli account vengono continuamente riutilizzati, quando un account non viene più
 Se lo studente abbandona l'istituto per qualunque motivo il suo account email deve essere eliminato.
 
 ***Collegare ogni studente alla sua email***
-Si parte ottenendo la lista di tutti gli studenti dal registro elettronico Spaggiari Parma
+Si parte ottenendo la lista di tutti gli studenti dal registro elettronico [Spaggiari Parma](https://web.spaggiari.eu/), quindi ven
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNjUwMzgyLC04MTc4MzU2MTUsNTA0MT
-k0OTkyXX0=
+eyJoaXN0b3J5IjpbLTIwNzg3MTM2MDksLTgxNzgzNTYxNSw1MD
+QxOTQ5OTJdfQ==
 -->
