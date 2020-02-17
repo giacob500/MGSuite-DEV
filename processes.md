@@ -12,7 +12,8 @@ Si parte ottenendo la lista di tutti gli studenti dal registro elettronico [Spag
 
     nome.cognome@gmail.com
 
+***Collegare ogni studente alla sua email***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODUzODcwMCwtODE3ODM1NjE1LDUwND
-E5NDk5Ml19
+eyJoaXN0b3J5IjpbLTE3NTY4NTg0NDAsMjA3ODUzODcwMCwtOD
+E3ODM1NjE1LDUwNDE5NDk5Ml19
 -->
