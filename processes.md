@@ -8,13 +8,14 @@ Gli account vengono continuamente riutilizzati, quando un account non viene più
 Si parte ottenendo la lista di tutti gli studenti dal registro elettronico [Spaggiari Parma](https://web.spaggiari.eu/), quindi gli indirizzi mail vengono creati secondo questo criterio:
 
     nome.cognome@gmail.com
+Come prima password viene utilizzata la password standard del registro elettronico che viene fornita allo studente quando si iscrive all'istituto.
 
 ***Processo per fornire la mail a ogni studente:***
-La email viene fornita a ogni studente mediante una circolare che spiega come aggiungere il proprio indirizzo email alla casella di posta riportando le seguenti informazioni. L'indirizzo di posta elettronica segue il criterio riportato precedentemente.
+La email viene fornita a ogni studente mediante una circolare che spiega come aggiungere il proprio indirizzo email alla casella di posta riportando le seguenti informazioni. L'indirizzo di posta elettronica segue i criteri riportati precedentemente.
 
 ***Gestione delle email una volta che lo studente abbandona l'istituto:***
 Se lo studente abbandona l'istituto per qualunque motivo il suo account email deve essere eliminato.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDEzNDk5NiwyMDc4NTM4NzAwLC04MT
+eyJoaXN0b3J5IjpbLTI5NTcxNjg4NiwyMDc4NTM4NzAwLC04MT
 c4MzU2MTUsNTA0MTk0OTkyXX0=
 -->
