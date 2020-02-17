@@ -7,13 +7,13 @@ Gli account vengono continuamente riutilizzati, quando un account non viene più
 ***Gestione delle email una volta che lo studente viene eliminato***
 Se lo studente abbandona l'istituto per qualunque motivo il suo account email deve essere eliminato.
 
-***Collegare ogni studente alla sua email***
+***Criterio sulla nominazione delle mail***
 Si parte ottenendo la lista di tutti gli studenti dal registro elettronico [Spaggiari Parma](https://web.spaggiari.eu/), quindi vengono creati gli indirizzi mail secondo questo criterio:
 
     nome.cognome@gmail.com
 
 ***Collegare ogni studente alla sua email***
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY4NTg0NDAsMjA3ODUzODcwMCwtOD
-E3ODM1NjE1LDUwNDE5NDk5Ml19
+eyJoaXN0b3J5IjpbNTM3NjY1Nzg4LDIwNzg1Mzg3MDAsLTgxNz
+gzNTYxNSw1MDQxOTQ5OTJdfQ==
 -->
