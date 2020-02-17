@@ -10,9 +10,9 @@ Se lo studente abbandona l'istituto per qualunque motivo il suo account email de
 ***Collegare ogni studente alla sua email***
 Si parte ottenendo la lista di tutti gli studenti dal registro elettronico [Spaggiari Parma](https://web.spaggiari.eu/), quindi vengono creati gli indirizzi mail secondo questo criterio:
 
-    enter code here
+    nome.cognome@gmail.com
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg0NDEzODMsLTgxNzgzNTYxNSw1MD
-QxOTQ5OTJdfQ==
+eyJoaXN0b3J5IjpbMjA3ODUzODcwMCwtODE3ODM1NjE1LDUwND
+E5NDk5Ml19
 -->
