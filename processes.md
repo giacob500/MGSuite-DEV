@@ -16,6 +16,10 @@ La email viene fornita a ogni studente mediante una circolare che spiega come ag
 ***Gestione delle email una volta che lo studente abbandona l'istituto:***
 Se lo studente abbandona l'istituto per qualunque motivo il suo account email deve essere eliminato.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTcxMTQwMiwtMjk1NzE2ODg2LDIwNz
-g1Mzg3MDAsLTgxNzgzNTYxNSw1MDQxOTQ5OTJdfQ==
+eyJoaXN0b3J5IjpbLTI5NTcxNjg4NiwyMDc4NTM4NzAwLC04MTc4MzU2MTUsNTA0MTk0OTkyXX0=
+-->
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA2Nzk3MjUzNiwtNDE5NzExNDAyLC0yOT
+U3MTY4ODYsMjA3ODUzODcwMCwtODE3ODM1NjE1LDUwNDE5NDk5
+Ml19
 -->
