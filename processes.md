@@ -1,7 +1,7 @@
 ## **PIANO DI LAVORO – MGSuite-DEV**
 
 ***Perché fornire un indirizzo email scolastico a ogni studente:***
-Avere un indirizzo email scolastico personale per ogni studente garantisce ad esso un 
+Avere un indirizzo email scolastico personale per ogni studente garantisce ad esso un ambiente privato dedicato soltanto a finalità scolastiche. Le email vengono utilizzate per conta
 
 ***Quantità totale di email utilizzate per gli utenti:***
 Viene utilizzata una pool di circa 2000 account email google, questo permette di avere una pool di account email abbastanza grande da contenere tutti gli account degli studenti dell'istituto e ulteriori circa 300 account in caso di necessità futura.
@@ -22,7 +22,7 @@ Se lo studente abbandona l'istituto per qualunque motivo il suo account email de
 eyJoaXN0b3J5IjpbLTI5NTcxNjg4NiwyMDc4NTM4NzAwLC04MTc4MzU2MTUsNTA0MTk0OTkyXX0=
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NDA5NDY1LC00MTk3MTE0MDIsLTI5NT
-cxNjg4NiwyMDc4NTM4NzAwLC04MTc4MzU2MTUsNTA0MTk0OTky
-XX0=
+eyJoaXN0b3J5IjpbLTU3NDA1MzM4OCwtNDE5NzExNDAyLC0yOT
+U3MTY4ODYsMjA3ODUzODcwMCwtODE3ODM1NjE1LDUwNDE5NDk5
+Ml19
 -->
