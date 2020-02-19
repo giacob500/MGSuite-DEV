@@ -25,8 +25,8 @@ namespace Bearer
     {
         static void Main(string[] args)
         {
-            string consumerKey = "#####";
-            string consumerSecret = "*****";
+            string consumerKey = "260392633753-18hl37euj7tpdk4pp4c1happd80d2o9t.apps.googleusercontent.com";
+            string consumerSecret = "4aQUzmnt-08DpxHP9Cqbi7gS";
             string accessToken;
             
             byte[] byte1 = Encoding.ASCII.GetBytes("grant_type=client_credentials");
