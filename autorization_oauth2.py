@@ -1,4 +1,4 @@
- __author__ = 'bdm4'
+ __author__ = 'giacomo lorenzi'
 
 import requests, json
 
