@@ -31,7 +31,7 @@ namespace Bearer
             
             byte[] byte1 = Encoding.ASCII.GetBytes("grant_type=client_credentials");
 
-            HttpWebRequest bearerReq = WebRequest.Create("https://api.byu.edu/token") as HttpWebRequest;
+            HttpWebRequest bearerReq = WebRequest.Create("AIzaSyDK48i45yKE-OfYiVrsZtdfBzXYP1YyiSI") as HttpWebRequest;
             bearerReq.Accept = "application/json";
             bearerReq.Method = "POST";
             bearerReq.ContentType = "application/x-www-form-urlencoded";
